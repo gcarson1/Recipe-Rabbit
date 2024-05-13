@@ -8,7 +8,8 @@ Things you may want to cover:
 * Ruby version - 3.3.1
 
 * System dependencies
-  - Ruby 3.3.1
+  - Ruby 3.3
+  - rails 7.1
   - sqlite3
 
 * Configuration
