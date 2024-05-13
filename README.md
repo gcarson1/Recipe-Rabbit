@@ -5,20 +5,24 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version - 3.3.1
 
 * System dependencies
+  - Ruby 3.3.1
+  - sqlite3
 
 * Configuration
+  - Clone
+  - run 'bin/rails server'
 
-* Database creation
+* Database creation (TBA)
 
-* Database initialization
+* Database initialization (TBA)
 
-* How to run the test suite
+* How to run the test suite (TBA)
 
-* Services (job queues, cache servers, search engines, etc.)
+* Services (job queues, cache servers, search engines, etc.) (TBA)
 
-* Deployment instructions
+* Deployment instructions (TBA)
 
 * ...
