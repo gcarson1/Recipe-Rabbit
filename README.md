@@ -3,7 +3,7 @@
 * Ruby version - 3.3.1
 
 * System dependencies
-  - Ruby 3.3
+  - Ruby 3.2.4
   - rails 7.1
   - sqlite3
 
