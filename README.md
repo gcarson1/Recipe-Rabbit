@@ -5,6 +5,7 @@
 * System dependencies
   - Ruby version control
   - Ruby 3.2.4
+  - bundler version >2
   - rails 7.1
   - sqlite3
 
