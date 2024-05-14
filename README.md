@@ -1,8 +1,9 @@
 # README
 
-* Ruby version - 3.3.1
+* Ruby version - 3.2.4
 
 * System dependencies
+  - Ruby version control
   - Ruby 3.2.4
   - rails 7.1
   - sqlite3
