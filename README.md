@@ -1,25 +1,24 @@
 # README
 
-* Ruby version - 3.2.4
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
 
 * System dependencies
-  - Ruby version control
-  - Ruby 3.2.4
-  - rails 7.1
-  - sqlite3
 
 * Configuration
-  - Clone
-  - run 'bin/rails server'
 
-* Database creation (TBA)
+* Database creation
 
-* Database initialization (TBA)
+* Database initialization
 
-* How to run the test suite (TBA)
+* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.) (TBA)
+* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions (TBA)
+* Deployment instructions
 
 * ...
