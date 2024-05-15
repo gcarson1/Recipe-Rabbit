@@ -23,4 +23,14 @@
 
 * Deployment instructions (TBA)
 
-* ...
+### Contributing -
+*  Needs
+  - Logo finalization
+  - Landing page creation
+  - Other pages design/plan + implementation
+  - Databasing
+  - Cookies
+  - User information/account creation
+  - Database queries
+  - Hosting
+  - etc.
