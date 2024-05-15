@@ -22,8 +22,10 @@
 * Services (job queues, cache servers, search engines, etc.) (TBA)
 
 * Deployment instructions (TBA)
+  
 
-### Contributing -
+### Contributing
+
 *  Needs
   - Logo finalization
   - Landing page creation
