@@ -9,12 +9,14 @@
   <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
 </head>
-<body>
-  <%= render 'layouts/header' %>
-  <main class="container">
-    <%= yield %>
-  </main>
-  <%= render 'layouts/footer' %>
-</body>
+<div id="page-wrap">
+  <body>
+    <%= render 'layouts/header' %>
+    <main class="container">
+      <%= yield %>
+    </main>
+  </body>
+</div>
+<%= render 'layouts/footer' %>
 </html>
 
